@@ -85,5 +85,5 @@ https://github.com/quezadav/charal-particle-feeding-model
 
 ## License
 
-No license has been assigned yet. Reuse conditions should be defined before formal publication or archival release.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
